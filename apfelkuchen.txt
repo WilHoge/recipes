@@ -1,4 +1,4 @@
-300 g	Mehl
+:q!300 g	Mehl
 200 g	Margarine oder Butter
 100 g	Zucker
 1 	Ei(er)
@@ -13,4 +13,4 @@
 1 Prise(n)	Salz
  evtl.	Walnüsse oder andere Nüsse
 
-wo ist denn die Anleitung??
+Directions:
